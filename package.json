@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-hook-form": "^7.43.5"
+  },
+  "name": "task-for-interview",
+  "version": "1.0.0",
+  "main": "inheritanceClass.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
